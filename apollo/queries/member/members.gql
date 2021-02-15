@@ -1,0 +1,8 @@
+query Members {
+    members {
+        name
+        email
+        position
+        bio
+    }
+}
